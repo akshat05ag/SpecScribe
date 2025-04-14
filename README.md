@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://spec-scribe-onxz.vercel.app/
 
 ## How can I edit this code?
 
